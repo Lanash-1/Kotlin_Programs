@@ -1,6 +1,4 @@
 package functions
-
-
 fun main() {
     var a1="Hello"
     println(a1 * 3)
