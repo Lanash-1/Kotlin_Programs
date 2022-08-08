@@ -19,5 +19,4 @@ fun main(){
         sum += it
     }
     print(sum)
-
 }
