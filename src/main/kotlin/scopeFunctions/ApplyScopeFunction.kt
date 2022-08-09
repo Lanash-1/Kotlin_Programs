@@ -1,4 +1,4 @@
-package scopePackage
+package scopeFunctions
 
 class ApplyExample{
     var type: Int = 0

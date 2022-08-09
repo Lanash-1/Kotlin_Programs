@@ -1,4 +1,4 @@
-package scopePackage
+package scopeFunctions
 
 class WithExample{
     val type: Int = 1

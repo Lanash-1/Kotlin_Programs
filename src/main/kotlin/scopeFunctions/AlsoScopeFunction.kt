@@ -1,4 +1,4 @@
-package scopePackage
+package scopeFunctions
 
 data class AlsoExample(
     var type: Int = 0,
