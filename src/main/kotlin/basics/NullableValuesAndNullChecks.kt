@@ -1,6 +1,6 @@
 package basics
 
-fun parseInt(str: String?): Int?{
+fun parseInt(str: String?): Int? {
     if(str != null){
         return Integer.parseInt(str)
     }
